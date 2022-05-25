@@ -1,3 +1,6 @@
 [submodule "AdaptiveIntelligence"]
 	path = AdaptiveIntelligence
 	url = git@github.com:Klodivio355/AdaptiveIntelligence
+[submodule "Fairness_Clustering"]
+	path = Fairness_Clustering
+	url = git@github.com:Klodivio355/Fairness_Clustering
