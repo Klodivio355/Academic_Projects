@@ -13,3 +13,6 @@
 [submodule "ML_module"]
 	path = ML_module
 	url = git@github.com:Klodivio355/ML_module.git
+[submodule "VoiceActivityDetection"]
+	path = VoiceActivityDetection
+	url = git@github.com:Klodivio355/VoiceActivityDetection.git
