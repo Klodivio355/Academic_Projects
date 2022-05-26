@@ -10,3 +10,6 @@
 [submodule "Software_Testing"]
 	path = Software_Testing
 	url = git@github.com:Klodivio355/Software_Testing.git
+[submodule "ML_module"]
+	path = ML_module
+	url = git@github.com:Klodivio355/ML_module.git
