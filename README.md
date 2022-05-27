@@ -19,3 +19,13 @@ Using the large and complex medical dataset MIMIC-IV along with the linked X-ray
 
 This study made it to a paper that was submitted to the [Medical Image Understanding and Analysis 2022](https://www.miua2022.com) conference by The University of Cambridge. The paper is currently under review and is available along with the project's description in the repository.
 
+## Spectral Clustering with Fairness Constraints
+
+This dissertation was originally intended to replicate the results found in the [paper](https://arxiv.org/abs/1901.08668) by Kleindessner et. al (2017). A further objective was to put the algorithms incorporating Fairness Constraints within the Spectral Clustering cut objective function introduced in this paper to the test using synthetic and real-world datasets, and to bring these to different levels of perturbations similar to how real graph data behaves in real-life circumstances. Addtionally, a literature survey has been performed to assess the the whys and wherefores of Fairness in Artificial Intelligence.
+The repository a series a standalone notebooks containing :
+- Synthetic Data (using LFRs and SBMs) 
+- Real-world Graph Data (DrugNET / FacebookNET / FriendshipNET)
+- Perturbation analysis on the aforementioned data
+- Technical notebook classes 
+
+
