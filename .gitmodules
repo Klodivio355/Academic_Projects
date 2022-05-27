@@ -10,3 +10,6 @@
 [submodule "VoiceActivityDetection"]
 	path = VoiceActivityDetection
 	url = git@github.com:Klodivio355/VoiceActivityDetection.git
+[submodule "COM4520-Multimodal-Pneumonia-Etiology-Classification"]
+	path = COM4520-Multimodal-Pneumonia-Etiology-Classification
+	url = git@github.com:Klodivio355/COM4520-Multimodal-Pneumonia-Etiology-Classification.git
