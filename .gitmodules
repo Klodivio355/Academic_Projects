@@ -4,9 +4,6 @@
 [submodule "Fairness_Clustering"]
 	path = Fairness_Clustering
 	url = git@github.com:Klodivio355/Fairness_Clustering
-[submodule "COM4520-Multimodal-Pneumonia-Etiology-Classification"]
-	path = COM4520-Multimodal-Pneumonia-Etiology-Classification
-	url = git@github.com:Klodivio355/COM4520-Multimodal-Pneumonia-Etiology-Classification
 [submodule "ML_module"]
 	path = ML_module
 	url = git@github.com:Klodivio355/ML_module.git
