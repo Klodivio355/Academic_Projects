@@ -28,4 +28,9 @@ The repository a series a standalone notebooks containing :
 - Perturbation analysis on the aforementioned data
 - Technical notebook classes 
 
+## Machine Learning and Adaptive Learning Module
+This assignment is broken down into 2 parts. The first one looks at how to provide functional pipeline and tackle common real-world problems such as missing dat, splitting and pre-processing. The first part of part 1 looks into how to use Ridge Regression to predict air quality, given this [dataset](https://archive.ics.uci.edu/ml/datasets/Air+Quality), secondly we dive into a common ML algorithm : Random Forests to tackle the same problem. Technically, we look how to provide easy, reliable pipelines using common libraries such as Pandas and Sci-kit learn. 
+The second part uses a blend of different [medical image datasets](https://medmnist.com) We look into the performance of different models on this dataset, from Multi-Layer Perceptron to Convolutional Neural Networks. We also analyse some unsupervised strateies to perform Dimensionality Reduction (PCA) and Clustering (Spectral Clustering), we also use AutoEncoders. From a technical point of view, this part perform model optimisation in PyTorch.
+
+
 
